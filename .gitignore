@@ -1,0 +1,8 @@
+# ide
+.idea
+
+
+# libaray
+composer.lock
+.phpunit.*
+vendor/

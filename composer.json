@@ -1,0 +1,21 @@
+{
+	"name": "duoli/util-demo",
+	"description": "first util package demo",
+	"require-dev": {
+		"phpunit/phpunit": "^8.5"
+	},
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "duoli",
+			"email": "zhaody901@126.com"
+		}
+	],
+	"require": {},
+	"autoload": {
+		"psr-4": {
+			"Duoli\\UtilDemo\\": "src",
+			"Duoli\\UtilDemoTests\\": "tests"
+		}
+	}
+}
